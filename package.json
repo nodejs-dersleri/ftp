@@ -1,0 +1,11 @@
+{
+  "name": "ftp-app",
+  "version": "1.0.0",
+  "description": "minimal ftp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif Cakiroglu <cakirogluarif@gmail.com> (http://www.arifcakiroglu.com)",
+  "license": "ISC"
+}
