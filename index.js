@@ -1,5 +1,5 @@
 
-var ftp = require('ftp');
+
 var Client = require('ftp');
 
 var client = new Client();
